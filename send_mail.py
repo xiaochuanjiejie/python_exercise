@@ -12,13 +12,17 @@ def send_mail(*args):
         from email.Header import Header
         import sys
 
-        smtpHost = 'smtp.mxhichina.com'
+        # smtpHost = 'smtp.mxhichina.com'
+        smtpHost = 'smtp.qq.com'
         smtpPort = '25'
         sslPort  = '465'
-        fromMail = 'postmaster@intern-mate.com'
+        # fromMail = 'postmaster@intern-mate.com'
+        fromMail = '33734898@qq.com'
         toMail   = toMail
-        username = 'postmaster@intern-mate.com'
-        password = 'Sxgs2015'
+        # username = 'postmaster@intern-mate.com'
+        # password = 'Sxgs2015'
+        username = '33734898@qq.com'
+        password = '821220jieqaz'
 
         reload(sys)
         sys.setdefaultencoding('utf8')
@@ -44,4 +48,4 @@ def send_mail(*args):
         except Exception:
             print 'Error: unable to send email'
 
-send_mail('xiaochuanjiejie@163.com','33734898@qq.com','onelamp2001@sina.com','sldlx@sohu.com','xiaochuanjiejie@gmail.com','shixigongshe123@126.com')
+send_mail('xiaochuanjiejie@163.com','33734898@qq.com','onelamp2001@sina.com','xiaochuanjiejie@gmail.com')
