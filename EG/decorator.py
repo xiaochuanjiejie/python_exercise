@@ -28,9 +28,11 @@ def log2(text):
         def wrapper(*args,**kwargs):
             print '%s,%s' % (text,func2.__name__)
             return func2(*args,**kwargs)
-        return wrapper()
+        return wrapper
     return decorator
-# ==: now = log('excute')(now)
+# ==: now2 = log('excute')(now2)
 @log2('excute')
 def now2():
     print 'current time is: %s' % time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+now2()
+print now2.__name__
