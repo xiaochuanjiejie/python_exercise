@@ -21,7 +21,7 @@ except nmap.PortScannerError:
 
 try:
     #’-sS‘代表TCP扫描，‘-sU’代表UDP扫描，参：https://nmap.org/man/zh/man-port-scanning-techniques.html
-    nm.scan(hosts=hosts,arguments=' -v -sU -p '+port)
+    nm.scan(hosts=hosts,arguments=' -v -sS -p '+port)
 except Exception,e:
     print 'Scan error:'+str(e)
 

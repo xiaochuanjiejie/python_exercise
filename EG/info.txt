@@ -1,0 +1,436 @@
+title:建立对数据的感性认识（1）" alt="建立对数据的感性认识（1）
+content:
+			本课程介绍数据分析中待研究的变量的分类方法，数据分布的概念，以及常见的数据分布。介绍如何借助统计学的理论和技术快速抓取数据特点，最短时间内建立数据感觉，为下一步分析确立方向。
+		
+time:3课时
+							63分钟
+level:初级
+learnnum:2027人学习
+
+title:ASP.NET WebForm 介绍" alt="ASP.NET WebForm 介绍
+content:
+			本课程对 ASP.NET WebForm 进行全面介绍，内容包括认识 ASP.NET WebForm、ASP.NET WebForm 的历史、ASP.NET WebForm 与 MVC 的相关常识，使学员对 ASP.NET WebForm 有一个深入了解。
+		
+time:3课时
+							14分钟
+level:初级
+learnnum:2041人学习
+
+title:Photoshop——混合模式详解1" alt="Photoshop——混合模式详解1
+content:
+			本课程为混合模式部分的第1课，首先系统讲解混合模式基础原理，包括混合色、基色、结果色概念、混合模式不同的功能分组与效果，然后讲解正常、溶解、变暗、正片叠底、颜色加深、线性加深和深色7种混合模式的效果、原理与计算公式。
+		
+time:3课时
+							43分钟
+level:中级
+learnnum:2043人学习
+
+title:设计模式之中介者模式" alt="设计模式之中介者模式
+content:
+			本课程以一个智慧房屋项目所遇到的问题出发，分析问题原因，然后提出通过中介者模式来解决问题。并详细讲解示例代码。
+		
+time:3课时
+							36分钟
+level:中级
+learnnum:2022人学习
+
+title:SSH 鲜花礼品网项目结构及首页设计" alt="SSH 鲜花礼品网项目结构及首页设计
+content:
+			本课程将讲述以下几个问题：一是项目结构，二是利用Div + CSS 对项目首页进行简单的布局，三是在首页左侧显示所有鲜花分类，四是在首页右侧显示新入库的鲜花，五是点击首页左侧的分类在右侧分页显示对应类别的鲜花。
+		
+time:4课时
+							65分钟
+level:中级
+learnnum:2025人学习
+
+title:Laravel 框架概述" alt="Laravel 框架概述
+content:
+			本课程讲解 Laravel 框架的诞生背景、技术特性和学习建议。从大型 PHP 项目实际开发的角度阐述了 Laravel 框架的诞生是为了解决什么实际问题。通过本课程的学习，使学员了解 Laravel 框架的定位，并且对 Laravel 框架的学习和项目实践有一个清晰的思路，配合后续的课程，层层递进，以最优化的方式快速掌握 Laravel 这个简单并且复杂的PHP 框架。
+
+		
+time:3课时
+							24分钟
+level:中级
+learnnum:2021人学习
+
+title:自动识别技术与 RFID" alt="自动识别技术与 RFID
+content:
+			本课程首先以概述方式全面介绍了物联网中的自动识别技术，然后从系统构成、工作流程、技术解析等方面介绍了 RFID 技术，最后从应用的角度解析了 RFID 典型应用案例，以加强学员的以应用为导向的思想。
+		
+time:3课时
+							50分钟
+level:初级
+learnnum:2022人学习
+
+title:sed 基础应用" alt="sed 基础应用
+content:
+			本课程学习 sed 的基础语法、命令及功能，通过 sed 实现基础自动化运维。
+		
+time:5课时
+							72分钟
+level:中级
+learnnum:2115人学习
+
+title:iOS 设计模式——装饰" alt="iOS 设计模式——装饰
+content:
+			本课程主要讲解设计模式中的装饰模式，用一个例子来讲解装饰模式的基本原理，最后，扩展讲解一下系统已经实现了的装饰模式 category。
+		
+time:4课时
+							34分钟
+level:高级
+learnnum:2166人学习
+
+title:Bmob 后端云简介" alt="Bmob 后端云简介
+content:
+			本课程主要从最近流行的移动后端服务（BaaS）方面对 BaaS 进行简单的功能上的介绍。针对 BaaS 中的比较好的后端云服务 Bmob 进行针对性的介绍及其相应的 API 主要功能。
+		
+time:3课时
+							21分钟
+level:中级
+learnnum:2120人学习
+
+title:Java Web 项目：无限级分销系统项目介绍" alt="Java Web 项目：无限级分销系统项目介绍
+content:
+			本课主要讲解 Java 无限级分销系统实战项目的概述以及项目中所用到的技术清单，还有学习本系列课程的学习前提和学完后所得达到的技术目标，另外一个重要的就是项目需求分析的讲解与整体项目功能的演示。通过本课程的讲解，学员能掌握该实战项目的整体介绍、学习前提以及学后技能目标和整个项目的业务需求，还有能一览无余的了解到实战项目的整体效果。
+		
+time:3课时
+							24分钟
+level:中级
+learnnum:2167人学习
+
+title:Axure 制作幻灯片轮播案例" alt="Axure 制作幻灯片轮播案例
+content:
+			本课程制作网站经常用到的幻灯片轮播的案例，深化对动态面板组件以及其他组件的使用，同时让大家学会如何制作幻灯片轮播效果。
+		
+time:3课时
+							30分钟
+level:中级
+learnnum:2098人学习
+
+title:Linux 系统编程之文件属性" alt="Linux 系统编程之文件属性
+content:
+			本课程学习文件属性的查看和修改方式，主要通过贯串讲解stat系列函数来学习具体文件的属性。通过本课程的学习完善对文件操作的认知，全面掌握Linux下文件的操作接口。
+		
+time:5课时
+							68分钟
+level:初级
+learnnum:2050人学习
+
+title:Struts2 整合 Hibernate 框架" alt="Struts2 整合 Hibernate 框架
+content:
+			本课程讲解 Struts2 整合 Hibernate  、基于泛型 DAO 模式的应用以及 OSIV 模式，通过本课程的学习能够掌握基于 Hibernate 的 Web 应用程序的开发。
+
+		
+time:3课时
+							44分钟
+level:中级
+learnnum:2053人学习
+
+title:R 语言基础之语法篇（3）" alt="R 语言基础之语法篇（3）
+content:
+			本课程首先介绍 R 语法部分的控制结构，包括分支结构和循环结构的使用，然后介绍如何编写函数及包的使用，最后介绍 R 的特色运算——向量化运算和 apply 函数家族。
+		
+time:4课时
+							45分钟
+level:初级
+learnnum:2193人学习
+
+title:GIS 基础之 GPS 全球定位系统" alt="GIS 基础之 GPS 全球定位系统
+content:
+			本课程将讲解 GPS 全球定位系统的由来、组成及它的工作原理，使学员快速了解导航的原理并在实际工作中得到运用。
+		
+time:4课时
+							38分钟
+level:初级
+learnnum:2196人学习
+
+title:Photoshop——图层样式详解2" alt="Photoshop——图层样式详解2
+content:
+			本课程作为图层样式部分的第2课，主要通过讲解描边、斜面浮雕、颜色叠加、渐变叠加和图案叠加5个样式的面板数值设置效果，并初步了解第二部分样式的特性，熟悉如何运用样式进行效果设计。
+		
+time:3课时
+							40分钟
+level:中级
+learnnum:2189人学习
+
+title:高级抽象元语 Trident" alt="高级抽象元语 Trident
+content:
+			本课程将会讲解 Storm 实时处理系统当中一个重要的概念分支：Trident——高级抽象元语，在讲解了 Trident 的概念之后，将辅以实战演练编写基于 Trident 实现的 Storm 实时处理系统实例。
+		
+time:3课时
+							38分钟
+level:中级
+learnnum:2061人学习
+
+title:走进 Axure 的表单设计(下)" alt="走进 Axure 的表单设计(下)
+content:
+			本课程学习Axure的表单交互，包括表单的输入、表单的即时校验、文字帮助以及表单的提交动作的设计，最后通过一个实例，让大家学会如何给表单添加交互效果。
+
+
+		
+time:4课时
+							67分钟
+level:中级
+learnnum:2096人学习
+
+title:Python 标准库与其他应用" alt="Python 标准库与其他应用
+content:
+			本课程主要介绍 Python 的标准库以及其他经常使用的一些东西的第一部分，并配以示例加以理解。
+		
+time:4课时
+							58分钟
+level:中级
+learnnum:2171人学习
+
+title:C 语言五子棋游戏项目分析与系统设计" alt="C 语言五子棋游戏项目分析与系统设计
+content:
+			本课程对五子棋项目进行需求分析，进而进行系统设计，将系统划分成不同的模块，以便分模块完成系统开发。五子棋起源于中国古代，是一种传统的黑白棋种。它是一款能够训练人的逻辑思维严密性的小游戏。
+		
+time:3课时
+							54分钟
+level:中级
+learnnum:2479人学习
+
+title:OpenSceneGraph 概述" alt="OpenSceneGraph 概述
+content:
+			本课程将深入讲解三维渲染引擎 OpenSceneGraph(OSG) 的历史，了解其性能优势和体系结构。然后解说 OSG 引擎的组成部分：核心库、节点扩展工具箱、文件读取插件、工具程序和示例集。最后推荐给大家一些学习渠道和资料。
+		
+time:3课时
+							19分钟
+level:初级
+learnnum:2175人学习
+
+title:Backbone 基本技术" alt="Backbone 基本技术
+content:
+			本课程的目的是介绍 Backbone 的基本技术，首先介绍 Router、History的使用，接着展示View、Collection、Model 等的基本使用方式和注意事项。最后，通过一个示例，结合具体代码讲解Backbone的深入开发。
+		
+time:5课时
+							36分钟
+level:初级
+learnnum:2121人学习
+
+title:StreamBuffer 类介绍" alt="StreamBuffer 类介绍
+content:
+			StreamBuffer 类是比较重要的缓冲区类。本课程对流缓冲区、缓冲区迭代器和自定义缓冲区均进行了详细的讲解。
+		
+time:4课时
+							46分钟
+level:中级
+learnnum:2134人学习
+
+title:Linux 系统编程之进程环境" alt="Linux 系统编程之进程环境
+content:
+			本课程介绍进程执行环境相关的内容，着重讲解动态运行的进程在平时编码中的一些注意点。通过本课程的学习让大家深入地认识进程，为以后学习进程控制做基础。
+		
+time:7课时
+							77分钟
+level:初级
+learnnum:2115人学习
+
+title:OpenGL ES 像素处理" alt="OpenGL ES 像素处理
+content:
+			本课程讲解 OpenGL ES 的像素处理功能，内容包括有半透明混和（Alpha Blending）技术，模板测试（Stencil Test）技术以及颜色抖动（Dither）技术。
+		
+time:3课时
+							41分钟
+level:初级
+learnnum:2087人学习
+
+title:SSH 鲜花礼品网关系映射" alt="SSH 鲜花礼品网关系映射
+content:
+			本课程将在 Struts、Spring、Hibernate 整合后的框架基础上，在 MyEclipse Database Explorer 下建立 MySQL 数将鲜花礼品网的各个数据库表进行映射，并根据系统需求，修改相关配置文件，为后期各个功能实现做准备。
+		
+time:3课时
+							30分钟
+level:中级
+learnnum:2115人学习
+
+title:物联网概述" alt="物联网概述
+content:
+			本课程主要对物联网概述，内容包括物联网起源与发展，核心技术和应用发展前景。
+		
+time:3课时
+							28分钟
+level:初级
+learnnum:2213人学习
+
+title:设计模式之解释器模式" alt="设计模式之解释器模式
+content:
+			本课程以大数据统计项目的问题出发，分析问题，然后提出通过解释器模式来解决问题。并详细讲解示例代码。
+		
+time:3课时
+							34分钟
+level:中级
+learnnum:2400人学习
+
+title:Cassandra 的安全、运维与多节点操作" alt="Cassandra 的安全、运维与多节点操作
+content:
+			本节课介绍如何为 Cassandra 设置密码，使用 Nodetool、cassandra-stress 等工具运维 Cassandra，如何动态增删数据节点，以及如何在 Java 项目中配置连接多个 Cassandra 节点。
+		
+time:3课时
+							25分钟
+level:高级
+learnnum:2088人学习
+
+title:Erlang 编程语言介绍" alt="Erlang 编程语言介绍
+content:
+			本课程主要介绍 Erlang 编程语言的特点，讲解如何安装基础的 Erlang 编程语言环境，了解并发编程，最后通过一个 Wordcount 的例子展示如何使用 Erlang 编程语言。
+		
+time:5课时
+							32分钟
+level:初级
+learnnum:2293人学习
+
+title:Python 异常处理与文件操作" alt="Python 异常处理与文件操作
+content:
+			本课程将要讲解 Python 当中异常的处理方法以及文件的操作方法，并配以示例加以理解。
+		
+time:4课时
+							72分钟
+level:中级
+learnnum:2236人学习
+
+title:OpenCL 设备 KERNEL 设计" alt="OpenCL 设备 KERNEL 设计
+content:
+			本课程中，我们将一起学习 OpenCL 的基本知识，如 OpenCL 架构的四种模型和 OpenCL C 语言。之后，我们学习一个例子，该例介绍了如何用 OpenCL 规范提供的一些常用 API 函数，去使用 OpenCL 设备完成并行计算代码的运行以及代码运行环境的配置和释放。
+		
+time:3课时
+							42分钟
+level:初级
+learnnum:2075人学习
+
+title:OpenCL编程的开发环境与API" alt="OpenCL编程的开发环境与API
+content:
+			本课介绍 OpenCL 编程的开发环境与API。课程首先对OpenCL编程的环境设置及准备工作做出介绍，之后通过一个实例对OpenCL编程Host代码流程进行介绍。
+		
+time:3课时
+							10分钟
+level:中级
+learnnum:2088人学习
+
+title:WebGL 贴图" alt="WebGL 贴图
+content:
+			本课程主要讲解 WebGL 贴图相关知识，内容包括 WebGL  贴图开发流程、导入纹理图像数据的方法以及设置纹理坐标并把图片贴在图形的表面的方法。
+		
+time:3课时
+							52分钟
+level:中级
+learnnum:2229人学习
+
+title:快速认识阿里云网站建设" alt="快速认识阿里云网站建设
+content:
+			本课时主要讲解网站建设的基础知识，并结合实例让学员快速了解网站的构架以及网站是如何建成的。
+		
+time:3课时
+							32分钟
+level:初级
+learnnum:2733人学习
+
+title:WPF 命令" alt="WPF 命令
+content:
+			本课程将学习 WPF 命令系统，主要包括 WPF 命令的组成要素、WPF 内置命令以及支持内置命令的控件、自定义命令的实现等相关知识。
+		
+time:3课时
+							37分钟
+level:中级
+learnnum:2182人学习
+
+title:Node.js 实践： 使用 MongoDB 存储数据" alt="Node.js 实践： 使用 MongoDB 存储数据
+content:
+			本课程主要介绍如何在 Node.js 中使用 MongoDB 来实现数据的持久化。内容包括 MongoDB 的基本使用，如何使用 Node.js 的 Mongoose 模块来操作 MongoDB，以及在实际的 Web 项目中，如何组织与 Mongoose 相关的代码等。
+		
+time:3课时
+							56分钟
+level:中级
+learnnum:2234人学习
+
+title:Python ORM 框架概述" alt="Python ORM 框架概述
+content:
+			本课程首先对 ORM 的概念进行简短介绍，然后说明 Python ORM 框架 SQLAlchemy 的基本信息和安装过程，最后使用 SQLAlchemy 框架实现一个示例程序，帮助学员对 SQLAlchemy 形成更加直观的认识。
+		
+time:3课时
+							37分钟
+level:初级
+learnnum:2324人学习
+
+title:SQL Server 2008 附加子句查询" alt="SQL Server 2008 附加子句查询
+content:
+			本课程学习在 SQL Server 2008 中利用排序、分组、分组后设置条件，临时表等子句来完成对数据表的查询。
+		
+time:4课时
+							27分钟
+level:初级
+learnnum:2150人学习
+
+title:Android 开发实战：短信验证码自动填写" alt="Android 开发实战：短信验证码自动填写
+content:
+			本课程主要讲解在 Android 中使用短信验证功能时，自动获取发送到用户手机上的验证短信，并将其中的验证码提取出来自动填写到输入框中。通过 ContentObserver 方式监听短信变化，正则方式匹配验证码。
+		
+time:4课时
+							35分钟
+level:初级
+learnnum:3423人学习
+
+title:Meteor 模板系统" alt="Meteor 模板系统
+content:
+			本阶段讲述了 Meteor 的模板系统，并创建了 HackerNews 的界面。
+		
+time:3课时
+							20分钟
+level:初级
+learnnum:2333人学习
+
+title:报警事件处理模块 Falcon-Alarm 源码解读" alt="报警事件处理模块 Falcon-Alarm 源码解读
+content:
+			本课程针对 Open-Falcon 的 Alarm 模块，讲解其功能设计出发点、代码结构和执行流程，着重介绍报警合并逻辑。
+		
+time:6课时
+							69分钟
+level:中级
+learnnum:2084人学习
+
+title:测试用例设计方法之等价类划分法" alt="测试用例设计方法之等价类划分法
+content:
+			本课程介绍使用等价类划分法设计测试用例的相关知识，使学员理解等价类划分法的相关概念，掌握划分等价类的相关原则，知道使用等价类划分法设计测试用例的原则。
+		
+time:2课时
+							18分钟
+level:初级
+learnnum:2100人学习
+
+title:SQL 注入利用与防御" alt="SQL 注入利用与防御
+content:
+			本课程主要通过实例讲解，为大家演示如何进行 SQL 注入的利用，最后从利用反过角度给大家介绍讲解 SQL 注入防御的相关知识。
+		
+time:4课时
+							48分钟
+level:中级
+learnnum:2538人学习
+
+title:线性表的存储与操作（一）" alt="线性表的存储与操作（一）
+content:
+			本课程将介绍线性表的顺序存储结构、链式存储结构，以及这两种存储结构的相关算法，单链表的建立算法。
+		
+time:3课时
+							29分钟
+level:初级
+learnnum:2231人学习
+
+title:Android 粒子效果之音量" alt="Android 粒子效果之音量
+content:
+			本课程继自定义 View 基础和原理及 Android 粒子效果之雨之后的系列课程，在系列课程中，我们会不断完善分装的 BaseView 来满足设计各种粒子动画效果。在本课程的讲解中，大家会觉得和 Android 粒子效果之雨的课程有很多相同，而接下来后面的粒子效果其实也有很多的类似行为和思路。
+		
+time:3课时
+							67分钟
+level:中级
+learnnum:2628人学习
+
+title:WebGL 视点与视线" alt="WebGL 视点与视线
+content:
+			本课程介绍视点、视线和观察目标点等概念，并讲解如何通过 gl-matrix 库得到视图矩阵，运用视图矩阵与旋转矩阵开发一个旋转三角形的小程序。
+		
+time:3课时
+							57分钟
+level:中级
+learnnum:2139人学习
+
