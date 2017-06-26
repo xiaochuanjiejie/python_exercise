@@ -4,7 +4,7 @@ __author__ = 'chuan'
 a = 1
 b = 1
 for i in range(1,21,2):
-     # print '**%s**' % i
+     # print '**%s**' % i,
      #此print末尾的","符号可使输出数据并列一行
      print '%d %d'%(a,b),
      a += b
