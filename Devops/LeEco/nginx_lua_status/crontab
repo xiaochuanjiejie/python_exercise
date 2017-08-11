@@ -1,0 +1,7 @@
+MAILTO=""
+
+#用途：lua状态码统计
+#属主: 许峻川
+*/1 * * * * /bin/sh /usr/local/LeMonitor/scripts/nginxMon/bin/nginxMon.sh
+#用途: For clear Lua_nginx_status cache
+01 00 * * * curl -svo /dev/null 'http://127.0.0.1:7777/lua_status.html?clear=1'

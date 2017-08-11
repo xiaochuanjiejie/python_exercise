@@ -1,0 +1,12 @@
+#!/bin/bash
+#
+#
+# (c) 2015 , Tianbiao Zu <zutianbian@letv.com>
+#
+# 该脚本用于计算某用户在某小时内的访问占用带宽
+
+##############################################################################
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/root/bin
+export PATH
+
+/usr/bin/_band_count $1 $2 2> /dev/null

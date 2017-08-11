@@ -1,0 +1,15 @@
+#!/bin/bash
+#
+#
+# (c) 2015 , Tianbiao Zu <zutianbian@letv.com>
+#
+# 该脚本用于计算某用户在某小时内的访问占用带宽
+
+##############################################################################
+PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/root/bin
+export PATH
+
+#zcat /letv/nginx_logs/access_$1*|grep -a "$2"|grep -aoE "bytes_sent.*request_length"|awk '{print $4}'|awk -F ',' '{print $1}'|awk 'BEGIN{count=0}{count=count+$1}END{count=count/1024/1024;printf "%.2f MB",count}'
+zcat /letv/nginx_logs/access_$1*.tar.gz|grep -a "$2"|grep -aoE "bytes_sent.*request_length"|awk '{print $4}'|awk -F ',' '{print $1}' > log_tmp_tar
+cat  /letv/nginx_logs/access_$1*.log |grep -a "$2"|grep -aoE "bytes_sent.*request_length"|awk '{print $4}'|awk -F ',' '{print $1}' > log_tmp
+cat log_tmp log_tmp_tar |awk 'BEGIN{count=0}{count=count+$1}END{count=count/1024/1024;printf "%.2f MB",count}'

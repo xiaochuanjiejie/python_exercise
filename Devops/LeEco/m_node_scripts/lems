@@ -1,0 +1,9 @@
+# 1 0 * * * /usr/sbin/logrotate -f /etc/logrotate.d/lems
+/letv/logs/lems/out.log /letv/logs/lems/err.log
+{
+daily
+dateext
+copytruncate
+nocompress
+rotate 15
+}

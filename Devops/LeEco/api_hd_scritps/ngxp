@@ -1,0 +1,21 @@
+/letv/logs/ngxp/*.log
+{
+    rotate 7
+    #daily
+    dateext
+    missingok
+    #notifempty
+    #compress
+    #delaycompress
+    olddir /letv/logs/oldlogs
+    sharedscripts
+    prerotate
+    /usr/bin/killall rsync
+    sleep 5
+    endscript
+    postrotate
+    /usr/bin/rsync --daemon --config=/etc/rsyncd.conf
+    kill -USR1 `cat /usr/local/nginx/logs/nginx.pid` > /dev/null || true
+    kill -USR1 `cat /usr/local/php/var/run/php-fpm.pid` > /dev/null || true
+    endscript
+}
